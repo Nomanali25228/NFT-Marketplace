@@ -1,0 +1,152 @@
+.flexbox {
+    display: flex;
+}
+.store {
+    margin-top: 59px;
+    margin-left: 130px;
+    height: 35px;
+}
+.ketses {
+    color: white;
+    margin-left: 10px;
+    margin-top: 57px;
+    font-size: 35px;
+}
+.plore {
+    color: white;
+    font-size: 35px;
+    margin-top: 57px;
+    margin-left: 100px;
+}
+.ourpanding {
+    color: white;
+    font-size: 35px;
+    margin-top: 57px;
+    margin-left: 230px;
+}
+.ul {
+    color: gray;
+    margin-left: -30px;
+    margin-top: 40px;
+    font-size: 17px;
+    cursor: pointer;
+}
+.ul:hover {
+    color: rgba(162, 89, 255, 1);
+}
+.uls {
+    color: gray;
+    margin-left: -30px;
+    margin-top: 5px;
+    font-size: 17px;
+    cursor: pointer;
+}
+.uls:hover {
+    color: rgba(162, 89, 255, 1);
+}
+.ulss {
+    color: gray;
+    margin-left: -30px;
+    margin-top: 20px;
+    font-size: 17px;
+    cursor: pointer;
+}
+.ulss:hover {
+    color: rgba(162, 89, 255, 1);
+}
+.logo {
+    margin-left: -30px;
+    margin-top: 25px;
+    cursor: pointer;
+}
+.logo1 {
+    margin-left: 12px;
+    margin-top: 25px;
+    cursor: pointer;
+}
+.pt1 {
+    color: gray;
+    margin-top: 40px;
+    margin-left: 100px;
+    font-size: 17px;
+    cursor: pointer;
+}
+.pt1:hover {
+    color: rgba(162, 89, 255, 1);
+}
+.pt2 {
+    color: gray;
+    margin-top: 20px;
+    margin-left: 100px;
+    font-size: 17px;
+    cursor: pointer;
+}
+.pt2:hover {
+    color: rgba(162, 89, 255, 1);
+}
+.dinging {
+    color: white;
+    font-size: 35px;
+    margin-left: 230px;
+}
+.exclusive {
+    color: gray;
+    margin-left: 230px;
+    font-size: 17px;
+    margin-top: 40px;
+    cursor: pointer;
+}
+.exclusive:hover {
+    color: rgba(162, 89, 255, 1);
+}
+.dex {
+    color: gray;
+    margin-left: 230px;
+    font-size: 17px;
+    margin-top: 5px;
+    cursor: pointer;
+}
+.dex:hover {
+    color: rgba(162, 89, 255, 1);
+}
+.inputs {
+    border: none;
+    outline: none;
+    width: 210px;
+    height: 39.5px;
+    margin-left: 230px;
+    margin-top: 30px;
+    border-radius: 12px;
+}
+.inputs[type=text] {
+    padding-left: 10px;
+}
+.butoonss {
+
+    background-color: rgba(162, 89, 255, 1);
+    border: none;
+    border-radius: 16px;
+    margin-top: 31px;
+    width: 110px;
+    height: 40px;
+    color: white;
+    margin-left: -35px;
+    border: none;
+    outline: none;
+}
+.hrline {
+    width: 1090px;
+    margin-left: 135px;
+    margin-top: 20px;
+    color: gray;
+    background-color: gray;
+    border-width: 0;
+    height: 1px;
+}
+.last {
+    color: gray;
+    margin-left: 135px;
+    font-size: 17px;
+    margin-top: 20px;
+    
+}

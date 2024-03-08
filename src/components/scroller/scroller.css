@@ -1,0 +1,108 @@
+.flexbox {
+    display: flex;
+
+}
+
+.Discoverdiv {
+    color: white;
+    font-size: 75px;
+    margin-left: 210px;
+    margin-top: 50px;
+}
+
+.Discoverdivart {
+    color: white;
+    font-size: 65px;
+    margin-left: 210px;
+
+}
+
+.pragraphdiv {
+    color: rgba(255, 255, 255, 1);
+    margin-left: 210px;
+    font-size: 22px;
+    margin-top: 20px;
+}
+
+.pragraph {
+    color: rgba(255, 255, 255, 1);
+    margin-left: 210px;
+    font-size: 22px;
+}
+
+.getStarteedButton {
+    margin-top: 40px;
+    height: 50px;
+    width: 170px;
+    margin-left: 210px;
+    border-radius: 20px;
+    color: white;
+    border: none;
+    background-color: rgba(162, 89, 255, 1);
+    cursor: pointer;
+}
+
+.RocketLaunch {
+    margin-left: 20px;
+}
+
+.Get {
+    margin-left: 15px;
+    margin-top: 2px;
+
+}
+
+.k240 {
+    color: white;
+    margin-left: 210px;
+    margin-top: 35px;
+}
+
+.Totalsale {
+    color: white;
+    margin-left: 210px;
+    font-size: 25px;
+}
+
+.k2402 {
+    color: white;
+    margin-left: 25px;
+    margin-top: 35px;
+}
+
+.Totalsale2 {
+    color: white;
+    margin-left: 25px;
+    font-size: 25px;
+}
+
+.oposseitbox {
+    height: 480px;
+    width: 480px;
+    background-color: rgb(43, 42, 42);
+    margin-top: 90px;
+    margin-left: 50px;
+    border-radius: 20px 20px 20px 20px;
+}
+
+.moonpic {
+    height: 390px;
+    width: 480px;
+}
+
+.Spacewalking {
+    color: white;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.cecalpic {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.animakid {
+    margin-left: 5px;
+    color: white;
+    margin-top: 10px;
+}

@@ -1,0 +1,64 @@
+.flexbox {
+    display: flex;
+}
+
+.gories {
+    color: white;
+    margin-left: 140px;
+    font-size: 40px;
+    margin-top: 80px;
+}
+
+.music {
+    height: 295px;
+    width: 250px;
+    margin-left: 140px;
+    margin-top: 55px;
+    background-color: rgb(43, 42, 42);
+    border-radius: 20px 20px 20px 20px;
+
+}
+
+.music1 {
+    height: 295px;
+    width: 250px;
+    margin-left: 25px;
+    margin-top: 55px;
+    background-color: rgb(43, 42, 42);
+    border-radius: 20px 20px 20px 20px;
+
+}
+
+.music2 {
+    height: 295px;
+    width: 250px;
+    margin-left: 140px;
+    margin-top: 25px;
+    background-color: rgb(43, 42, 42);
+    border-radius: 20px 20px 20px 20px;
+
+}
+
+.music3 {
+    height: 295px;
+    width: 250px;
+    margin-left: 25px;
+    margin-top: 25px;
+    background-color: rgb(43, 42, 42);
+    border-radius: 20px 20px 20px 20px;
+
+}
+
+.pen {
+    rotate: right;
+    width: 250px;
+    height: 230px;
+    border-radius: 20px 20px 0px 0px;
+}
+
+.arts {
+    color: white;
+    margin-left: 20px;
+    margin-top: 12px;
+    font-size: 25px;
+}

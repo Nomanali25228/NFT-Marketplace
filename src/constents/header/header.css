@@ -1,0 +1,69 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.flexboxing{
+    display: flex;
+}
+
+
+
+
+
+.img1 {
+    margin-top: 60px;
+    margin-left: 90px;
+    cursor: pointer;
+
+}
+
+.marketplace {
+    color: white;
+    margin-top: 65px;
+    margin-left: 10px;
+    font-size: 21px;
+    cursor: pointer;
+}
+
+.marketplace:hover {
+    line-height: normal;
+}
+
+.place {
+    color: white;
+    margin-left: 450px;
+    margin-top: 63px;
+    font-size: 21px;
+}
+
+.place:hover {
+    color: rgba(162, 89, 255, 1);
+    cursor: pointer;
+}
+
+.rankings {
+    color: white;
+    margin-left: 20px;
+    margin-top: 63px;
+    font-size: 21px;
+}
+
+.rankings:hover {
+    cursor: pointer;
+
+    color: rgba(162, 89, 255, 1);
+}
+
+.uping {
+    margin-left: 20px;
+    margin-top: 55px;
+    background-color: rgba(162, 89, 255, 1);
+    border: none;
+    color: white;
+    border-radius: 15px;
+    height: 40px;
+    width: 120px;
+    cursor: pointer;
+}

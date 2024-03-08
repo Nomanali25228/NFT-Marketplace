@@ -1,0 +1,98 @@
+.flexbox {
+    display: flex;
+}
+
+.trading {
+    color: white;
+    margin-left: 150px;
+    margin-top: 70px;
+}
+
+.our {
+    color: white;
+    margin-left: 150px;
+    margin-top: 10px;
+    font-size: 20px;
+
+}
+
+.jpg {
+    margin-left: 150px;
+    margin-top: 50px;
+
+
+
+}
+
+.jpgs {
+    margin-left: 30px;
+    margin-top: 50px;
+
+
+
+}
+
+.sacen {
+    height: 100px;
+    width: 100px;
+    margin-left: 150px;
+    margin-top: 13px;
+}
+
+.sacens {
+    height: 100px;
+    width: 100px;
+    margin-left: 30px;
+    margin-top: 13px;
+}
+
+.sacen12 {
+    height: 100px;
+    width: 100px;
+    margin-left: 13px;
+    margin-top: 13px;
+}
+
+.plus {
+    margin-left: 13px;
+    margin-top: 13px;
+    height: 100px;
+    width: 100px;
+    color: white;
+    border-radius: 12px;
+    background-color: rgba(162, 89, 255, 1);
+
+}
+
+.inbox {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.dsgn {
+    color: white;
+    margin-left: 150px;
+    margin-top: 13px;
+}
+
+.cat {
+    margin-left: 150px;
+    margin-top: 10px;
+}
+
+.fox {
+    color: white;
+    margin-left: 10px;
+    margin-top: 13px;
+}
+
+.dsgns {
+    color: white;
+    margin-left: 35px;
+    margin-top: 13px;
+}
+
+.cats {
+    margin-left: 35px;
+    margin-top: 10px;
+}

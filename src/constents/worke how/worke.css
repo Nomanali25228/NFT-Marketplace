@@ -1,0 +1,61 @@
+.flexbox {
+    display: flex;
+}
+.working {
+    color: white;
+    margin-left: 120px;
+    margin-top: 50px;
+    font-size: 45px;
+}
+
+.outing {
+    color: white;
+    margin-left: 120px;
+    margin-top: 5px;
+    font-size: 20px;
+
+}
+
+.holger {
+    height: 385px;
+    border-radius: 19px;
+    width: 340px;
+    background-color: rgb(43, 42, 42);
+    margin-left: 120px;
+    margin-top: 50px;
+
+}
+
+.holgerss {
+    height: 385px;
+    border-radius: 19px;
+    width: 340px;
+    background-color: rgb(43, 42, 42);
+    margin-left: 40px;
+    margin-top: 50px;
+
+}
+
+.gool {
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.wallet {
+    color: white;
+    text-align: center;
+    font-size: 20px;
+
+}
+
+.walleting {
+    color: white;
+    text-align: center;
+    margin-top: 2px;
+}
+
+.walletings {
+    color: white;
+    text-align: center;
+    margin-top: 9px;
+}

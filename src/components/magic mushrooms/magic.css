@@ -1,0 +1,108 @@
+.flexbox {
+    display: flex;
+}
+.fulpic {
+    background: linear-gradient(to top, rgba(130, 26, 235, 0.534), rgba(133, 43, 250, 0)), url('../../assets/NFT\ Highlight\ \(2\).png');
+    width: auto;
+    background-size: cover;
+    margin-top: 75px;
+    height: 700px;
+}
+
+.smro {
+    position: absolute;
+    top: 3550px;
+    border: none;
+    margin-left: 105px;
+
+    background-color: rgb(43, 42, 42);
+    border-radius: 18px;
+    width: 160px;
+    height: 45px;
+
+}
+
+.indiv {
+    margin-left: 22px;
+    margin-top: 9px;
+    height: 28px;
+}
+
+.rooomie {
+    color: white;
+    margin-top: 13px;
+    margin-left: 15px;
+}
+
+.gic {
+    color: white;
+    margin-top: 40px;
+    font-size: 58px;
+}
+
+.gics {
+    color: white;
+    margin-top: 40px;
+    font-size: 58px;
+    margin-left: 20px;
+}
+
+.lastboxss {
+    height: 175px;
+    width: 330px;
+    position: absolute;
+    left: 785px;
+    margin-top: 40px;
+    border-radius: 20px;
+
+    background-color: rgba(87, 84, 84, 0.356);
+    border: none;
+
+}
+
+.auctioon {
+    color: white;
+    margin-top: 5px;
+    margin-left: -125px;
+    font-size: 16px;
+}
+
+.hourse {
+    margin-top: 10px;
+    color: white;
+    font-size: 16px;
+    margin-left: 40px;
+
+}
+
+.hourse1 {
+    margin-top: 10px;
+    color: white;
+    font-size: 16px;
+    margin-left: 50px;
+
+}
+
+
+
+
+.fiftynine {
+    color: white;
+    font-size: 50px;
+    margin-top: 10px;
+}
+
+.boxss {
+    border: none;
+    margin-top: 40px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 18px;
+    width: 200px;
+    height: 63px;
+    cursor: pointer;
+}
+
+.nft213 {
+    text-align: center;
+    padding-top: 17px;
+}

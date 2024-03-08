@@ -1,0 +1,106 @@
+.flexbox {
+    display: flex;
+}
+
+.topcreater {
+    margin-left: 200px;
+    font-size: 33px;
+    margin-top: 80px;
+    color: white;
+}
+
+.chcechout {
+    font-size: 20px;
+    margin-left: 200px;
+    margin-top: 10px;
+    color: white;
+}
+
+.ranking {
+    margin-top: 100px;
+    height: 45px;
+    width: 180px;
+    margin-left: 265px;
+    border-radius: 20px;
+    color: white;
+    background-color: rgb(14, 13, 13);
+    border: rgba(162, 89, 255, 1) solid 1px;
+    cursor: pointer;
+
+}
+
+.card1 {
+    height: 210px;
+    width: 207px;
+    background-color: rgb(43, 42, 42);
+    border-radius: 15px;
+    margin-left: 200px;
+    margin-top: 55px;
+
+}
+
+.card2 {
+    height: 210px;
+    width: 207px;
+    background-color: rgb(43, 42, 42);
+    border-radius: 15px;
+    margin-left: 30px;
+    margin-top: 55px;
+}
+
+.card3 {
+    height: 210px;
+    width: 207px;
+    background-color: rgb(43, 42, 42);
+    border-radius: 15px;
+    margin-left: 200px;
+    margin-top: 30px;
+}
+
+.card4 {
+    height: 210px;
+    width: 207px;
+    background-color: rgb(43, 42, 42);
+    border-radius: 15px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.one {
+    margin-left: 20px;
+    margin-top: 15px;
+    height: 23px;
+    width: 23px;
+    border-radius: 50px;
+    background-color: rgb(14, 13, 13);
+}
+
+.number {
+    text-align: center;
+    color: rgb(100, 100, 99);
+
+}
+
+.girlpiv {
+    height: 115px;
+    margin-top: 20px;
+    margin-left: 8px;
+}
+
+.keep {
+    margin-top: 5px;
+    text-align: center;
+    color: white;
+}
+
+.total {
+    margin-top: 8px;
+    margin-left: -23px;
+    color: var(--caption-label-text, #858584);
+}
+
+.eth {
+    margin-top: 8px;
+    color: white;
+    margin-left: 12px;
+}
